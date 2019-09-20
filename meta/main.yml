@@ -1,0 +1,9 @@
+---
+dependencies:
+  - { role: base }
+  - { role: ssh-server }
+  - { role: file-client }
+  - { role: cldevelop }
+  - { role: graphical }
+  - { role: graphicaldevelop }
+  - { role: net-tools-graphical }
