@@ -1,7 +1,5 @@
 ---
 dependencies:
-  - { role: base }
-  - { role: ssh-server }
   - { role: cldevelop }
   - { role: graphical }
   - { role: graphicaldevelop }
