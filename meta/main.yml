@@ -1,6 +1,7 @@
 ---
 dependencies:
   - { role: cldevelop }
+  - { role: minikube }
   - { role: graphical }
   - { role: graphicaldevelop }
   - { role: net-tools-graphical }
